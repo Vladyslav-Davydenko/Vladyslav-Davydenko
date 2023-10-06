@@ -54,10 +54,10 @@ Communicative and self-motivated student with good adaptation skills. Cannot be 
 
 ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vladyslav-Davydenko&show_icons=true&locale=en&layout=compact" alt="vilsivul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vladyslav-Davydenko&show_icons=true&theme=dark&locale=en&layout=compact" alt="vilsivul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vladyslav-Davydenko&show_icons=true&locale=en" alt="vilsivul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vladyslav-Davydenko&show_icons=true&theme=dark&locale=en" alt="vilsivul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vladyslav-Davydenko&" alt="vilsivul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vladyslav-Davydenko&theme=dark" alt="vilsivul" /></p>
 
 ---
