@@ -13,7 +13,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [Simple Product Store](https://github.com/Vladyslav-Davydenko/SimpleProductShop)
+- 🔭 I’m currently working on [Posts Redux]([https://github.com/Vladyslav-Davydenko/SimpleProductShop](https://github.com/Vladyslav-Davydenko/PostsRedux))
 
 - 🌱 I’m currently learning **TypeScript and Redux**
 
