@@ -13,7 +13,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [Kuehne+Nagel](https://ee.kuehne-nagel.com) as Frontend Intern
+- 🔭 I’m currently working at [Kuehne+Nagel](https://ee.kuehne-nagel.com) as Frontend Intern
 
 - 🌱 I’m currently learning **TypeScript and Redux**
 
