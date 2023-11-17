@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working at [Kuehne+Nagel](https://ee.kuehne-nagel.com) as Frontend Intern
 
-- 🌱 I’m currently learning **TypeScript and Redux**
+- 🌱 I’m currently learning **TypeScript and NextJS**
 
 - 💬 Ask me about **React and JavaScript**
 
