@@ -13,7 +13,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **TypeScript and NextJS**
+- 🌱 I’m currently learning a **Bunch of stuff**
 
 - 💬 Ask me about **React and JavaScript**
 
