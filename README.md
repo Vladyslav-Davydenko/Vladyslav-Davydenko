@@ -17,7 +17,6 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
 
 #### IDE
-![](https://img.shields.io/badge/IntelliJ_IDEA-Editor-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
 
 #### Front-end
