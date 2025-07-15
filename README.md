@@ -1,54 +1,110 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Hi, I'm Vladyslav 👋</h1>
+  <h3>Full-Stack Developer | JavaScript & TypeScript Expert</h3>
+</div>
 
-I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
+<div id="socials" align="center">
+  <a href="https://www.linkedin.com/in/vladyslav-davydenko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Vilsivul">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
-### My specialty
+---
 
-I have vast experience in fintech, real estate, and healthcare industries.  
-I enjoy building scalable systems that people love using. 
+### 👨‍💻 About Me
 
-### My tech stack and toolset
+I'm a results-driven **Full-Stack Developer** with 2+ years of experience building scalable, secure, and user-focused web applications. My core expertise lies in **JavaScript, TypeScript**, and modern frameworks like **React**, **Next.js**, and **Nest.js**.
 
-At bn digital, we believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
+- 🧠 Passionate about clean code, testing, and performance
+- 🚀 Experienced in both frontend and backend development
+- ⚙️ Strong in architecture, design systems, and DevOps (CI/CD, Docker, Kubernetes)
+- 🌍 Committed to lifelong learning and staying ahead of the curve
+- 🤝 Team player with leadership experience and strong communication skills
+
+---
+
+### 🔎 Quick Facts
+
+- 🔭 Recently started using vim motions
+- 🛠️ Focused on **Node.js, NestJS, ExpressJS and Deep Dive into JS world**
+- 💬 Open to questions about **Backend and development with JS**
+- 📫 Reach me: **davydenko.vladyslav.2004@gmail.com**
+- ⚡ Fun Fact: I love **volleyball**, **swimming**, and **games**
+
+---
+
+### 💻 Tech Stack
 
 #### Languages
 
-![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+</div>
 
-#### IDE
-![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
+#### Frameworks & Libraries
 
-#### Front-end
-![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>&nbsp;
+</div>
 
-![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
+#### Testing & DevOps
 
-#### Back-end
-![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" width="40" height="40"/>
+</div>
 
-#### DevOps
-![](https://img.shields.io/badge/Gitlab-Repository-informational?style=flat-square&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Gitlab_CI-CI|CD-informational?style=flat-square&logoColor=white&color=2bbc8a)  
+#### Databases & APIs
 
-![](https://img.shields.io/badge/Terraform-IaaC-informational?style=flat-square&logo=terraform&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Docker-Containerisation-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" width="40" height="40"/>
+</div>
 
+#### Productivity & Collaboration
 
-## About bn digital
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" width="40" height="40"/>
+</div>
 
-BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier.
+---
 
-Please feel free to reach out to us!
-[https://bndigital.co](https://bndigital.co)
-[Dribbble](https://dribbble.com/bndigital)
-[Behance](https://www.behance.net/bn_digital)
-[Linkedin](https://www.linkedin.com/company/bndigital-llc)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vladyslav-Davydenko&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladyslav-Davydenko&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vladyslav-Davydenko&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎓 Education
+
+- 🎓 **Bachelor of Cybersecurity Engineering**  
+  Tallinn University of Technology (TalTech)
+
+---
