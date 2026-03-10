@@ -89,11 +89,8 @@ I'm a results-driven **Full-Stack Developer** with 2+ years of experience buildi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vladyslav-Davydenko&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladyslav-Davydenko&layout=compact&theme=dark" alt="Top Languages" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vladyslav-Davydenko&theme=dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vladyslav-Davydenko&theme=dark" alt=""/>
 </p>
 
 <p align="center">
